@@ -1,5 +1,5 @@
 # Secured_TCP_Chatting by C(++)
-Server supervisor can control host accesses by pre-entered IP Address
+Server supervisor can control unidentified host accesses by pre-entered IP Address
 
 All data you transfer in this program is encrypted by AES algorithm
 
